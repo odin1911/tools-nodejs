@@ -1,0 +1,37 @@
+﻿中文,英文,俄文
+,Log in ,Войти
+,confirm ,Подтвердить
+,cancel ,Отменить
+,refresh ,Обновить
+,Reload ,Перезагрузить
+,Request timeout ,Время ожидания истекло
+,Your session has expired. Please login again. ,"Время сеанса истекло. Пожалуйста, войдите снова."
+,Server failure ,Сбой сервера
+,"Server maintenance, please later... ","Сервер на техническом обслуживании, пожалуйста подождите..."
+,"Server maintenance, please later... ","Сервер на техническом обслуживании, пожалуйста подождите..."
+,Content loading failure ,Сбой при загрузке контента
+,This feature has shut down. ,Данная функция отключена.
+,Service not found ,Услуга не найдена
+,unknown error ,Неизвестная ошибка
+,Forbidden ,Запрещено
+,Template download error ,Ошибка загрузки шаблона
+,Template initial error ,Исходная ошибка шаблона
+,Template end error ,Конечная ошибка шаблона
+,"For a better experience, please update to the latest version Chrome. ",Для более удобной работы обновите Chrome до последней версии.
+,You may encounter compatibility issues as you are using an old version of browser. Please update your browser as soon as possible. ,"Вы можете столкнуться с проблемами синхронизации, поскольку используете старую версию браузера. Пожалуйста, обновите свой браузер как можно скорее."
+,"To get the best experience of the ALO7 app, we recommend upgrading your device to the latest version of PhoneOS. ","Чтобы максимально эффективно использовать приложение KidsGo, мы рекомендуем обновить Ваше устройство до последней версии PhoneOS."
+,"<p>Courseware loading,</p><p>hold on please.</p> ","<p>Загрузка учебных программ, </p><p>пожалуйста подождите.</p>"
+,Template loading timeout ,Время загрузки шаблона истекло
+,Request Failed ,Не удалось выполнить запрос
+,Request Failed ,Не удалось выполнить запрос
+,Interface request timeout ,Время запроса интерфейса истекло
+,sync_connect_error ,ошибка_подключения_синхронизации
+,Unstable ,Нестабильный(ая)
+,Latency ,Задержка
+,Reconnect ,Восстановить соединение
+,Line 1 ,Строка 1
+,Line 2 ,Строка 2
+,Line ,Строка
+,Close ,Закрыть
+,RELOAD ,ПЕРЕЗАГРУЗИТЬ
+,The student portal is syncing with you... ,Портал учащихся синхронизируется с Вашим...
